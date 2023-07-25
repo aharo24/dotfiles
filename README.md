@@ -1,3 +1,3 @@
 # dotfiles
 
-My core dot-files.
+My core dot-files
